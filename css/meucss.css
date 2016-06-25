@@ -1,0 +1,17 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	color:black;
+	font-family: Arial;
+}
+body{
+	background: lightblue;
+}
+#toolbar h1{
+	color:red;
+	text-align: center;
+	width:auto;
+	height: 60px;
+	background: white;
+	line-height: 60px;
+}
