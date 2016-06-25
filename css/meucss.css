@@ -5,7 +5,11 @@
 	font-family: Arial;
 }
 body{
+<<<<<<< HEAD
 	background: #666;
+=======
+	background: #000;
+>>>>>>> atualizacao css
 }
 #toolbar h1{
 	color:red;
